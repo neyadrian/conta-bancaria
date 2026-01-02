@@ -50,9 +50,6 @@ public class Main {
 
         } while (opcao != 0);
 
-
-
-
         scanner.close();
     }
 }
